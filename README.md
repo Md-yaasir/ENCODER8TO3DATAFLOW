@@ -67,7 +67,7 @@ Developed by: Prathiksha.R RegisterNumber: 24900337
 
 
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
-![Screenshot 2024-12-28 094927](https://github.com/user-attachments/assets/523d1bfa-b2fb-4a87-9f42-248b1228b45e)
+![image](https://github.com/user-attachments/assets/4a553db8-5568-4674-9acf-0a98d75f44b5)
 
 
 **RESULTS**
